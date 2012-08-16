@@ -20,5 +20,4 @@ Compare ${HOME}/.bashrc and ${HOME}/.bashrc.new, the only difference should be $
 
 Use the new bashrc file:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    mv ${HOME}/.bashrc.new ${HOME}/.bashrc
-    source .bashrc
+    mv ${HOME}/.bashrc.new ${HOME}/.bashrc && source .bashrc
