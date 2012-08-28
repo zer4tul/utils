@@ -3,7 +3,40 @@ Small Utils Collection
 ======================
 Requirements
 ============
-Tobe added...
+- adhoc
+    - net-tools
+    - wireless_tools
+    - iptables
+    - sudo
+
+- cuesplit.sh
+    - shntool
+    - mp3splt
+
+- diskage.pl
+    - perl
+
+- extract
+    - bzip2
+    - xz
+    - unrar
+    - gzip
+    - unzip
+    - p7zip
+    - tar
+
+- lunar
+    - python2
+
+- mkcython.sh
+    - python
+
+- rip-flash
+    - lsof
+
+- shot
+    - mplayer
+    - imagemagick
 
 Installation
 ============
